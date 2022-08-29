@@ -86,6 +86,61 @@ footer {font-size: 20px; text-align:center}
 
 ---
 
+- A característica principal de uma CLI (Command-line Interface, Interface de linha de comando) é sua interface no caso aquelas telas pretas/azul.
+- Já o GUI (Graphical User Interface ou Interface Gráfica de Usuário) tem realmente uma interface gráfica conforme o próprio nome já diz, de certa forma é muito mais amigável mas tudo tem seu prós e contras.
+
+---
+
+CLI pontos positivos em relação ao GUI:
+
+- Necessita de menos recursos;
+- Entrega bem mais precisão;
+- Lida com tarefas repetitivas mais facilmente;
+- Ele é muito poderoso;
+
+<style scoped>
+footer {font-size: 16px; text-align:center}
+</style>
+
+![bg right 95%](https://i.ibb.co/BK3zkVn/Sem-t-tulo.png)
+
+---
+
+GUI pontos positivos em relação ao CLI:
+
+- Curva de aprendizagem;
+- Multitarefa;
+- Visual;
+- Recursos;
+- Controle;
+
+<style scoped>
+footer {font-size: 16px; text-align:center}
+</style>
+
+![bg right 95%](https://i.ibb.co/ZGCtsyT/Sem-t-tulo.png)
+
+---
+
+# E os pontos negativos??????
+
+Isso é muito relativo pois há pessoas que amam CLI e odeiam GUI e vice e versa, ou seja, o ponto positivo de uma aplicação pode ser negativo em outra.
+
+
+<style scoped>
+footer {font-size: 16px; text-align:center}
+</style>
+
+![bg right 80%](https://i.ibb.co/x2hQ2M3/Sem-t-tulo.png)
+
+---
+
+## Podemos concluir que:
+
+O fato de que a maioria dos sistemas operacionais oferecem tanto o CLI e também o GUI é uma prova de que o CLI é crucial na computação. 
+
+---
+
 # Shell
 Lênio Celso Brandão Guerreiro Barbosa
 
